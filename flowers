@@ -1,0 +1,15 @@
+store-id,flower_type,price,season,year,zone,sold
+1,rose,36,summer,2021,5,47
+2,rose,36.4,winter,2022,5,76
+3,azelea,23,summer,2017,6,65
+4,rose,34,summer,2010,5,54
+5,rose,38,winter,2009,6,23
+2,azelea,45,summer,2007,4,34
+3,azelea,45.7,summer,2005,4,45
+5,rose,57,winter,2001,5,45
+4,yarrow,14,summer,2001,4,56
+1,yarrow,13,summer,1999,4,67
+2,rose,41,winter,2013,8,89
+5,yarrow,17.8,winter,2005,4,78
+4,azelea,34,summer,2002,7,67
+2,rose,67,summer,2015,7,56
